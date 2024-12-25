@@ -21,9 +21,9 @@ public class Sudoku extends JFrame {
     private static final int BOX_SIZE = 3;
     private static final String SCORES_FILE = "user_scores.txt";
     private static final Map<String, Integer> DIFFICULTY_LEVELS = Map.of(
-        "Easy", 3,
+        "Easy", 35,
         "Medium", 45,
-        "Hard", 3
+        "Hard", 55
     );
 
     public Sudoku(String username) {
