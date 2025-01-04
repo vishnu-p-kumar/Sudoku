@@ -11,6 +11,11 @@ A Java-based Sudoku game with a graphical user interface (GUI) that allows users
 
 ### 1. Compile the Java Files
 Open a terminal/command prompt and navigate to the project directory:
-```bash
+````bash
 javac Login.java
 javac Sudoku.java
+````
+### 2. Run the Java File
+```bash
+java Login
+```
