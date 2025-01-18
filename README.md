@@ -20,5 +20,7 @@ javac Sudoku.java
 java Login
 ```
 ### 3. Output
+![Uploading sudoku.png…]()
+
 
 
