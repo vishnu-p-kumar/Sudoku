@@ -19,3 +19,6 @@ javac Sudoku.java
 ```bash
 java Login
 ```
+### 3. Output
+![Uploading Screenshot 2024-12-12 123431.png…]()
+
